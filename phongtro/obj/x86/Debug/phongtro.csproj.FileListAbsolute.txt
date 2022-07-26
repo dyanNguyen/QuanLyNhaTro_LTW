@@ -1,0 +1,458 @@
+C:\Users\Admin\Desktop\phongtro\obj\x86\Debug\phongtro.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\phongtro\obj\x86\Debug\phongtro.Form1.resources
+C:\Users\Admin\Desktop\phongtro\obj\x86\Debug\phongtro.GUI.frm_DangNhap.resources
+C:\Users\Admin\Desktop\phongtro\obj\x86\Debug\phongtro.GUI.frm_DichVu.resources
+C:\Users\Admin\Desktop\phongtro\obj\x86\Debug\phongtro.GUI.frm_KhachTro.resources
+C:\Users\Admin\Desktop\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuChi.resources
+C:\Users\Admin\Desktop\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuThue.resources
+C:\Users\Admin\Desktop\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuThuTien.resources
+C:\Users\Admin\Desktop\phongtro\obj\x86\Debug\phongtro.GUI.frm_Phieutraphong.resources
+C:\Users\Admin\Desktop\phongtro\obj\x86\Debug\phongtro.GUI.frm_QLThietBi.resources
+C:\Users\Admin\Desktop\phongtro\obj\x86\Debug\phongtro.GUI.frm_TTDichVu.resources
+C:\Users\Admin\Desktop\phongtro\obj\x86\Debug\phongtro.GUI.frm_TTphongtro.resources
+C:\Users\Admin\Desktop\phongtro\obj\x86\Debug\phongtro.Properties.Resources.resources
+C:\Users\Admin\Desktop\phongtro\obj\x86\Debug\phongtro.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\phongtro\obj\x86\Debug\phongtro.exe.licenses
+G:\phongtro\obj\x86\Debug\phongtro.frm_Main.resources
+G:\phongtro\obj\x86\Debug\phongtro.GUI.frm_DichVu.resources
+G:\phongtro\obj\x86\Debug\phongtro.GUI.frm_KhachTro.resources
+G:\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuChi.resources
+G:\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuThue.resources
+G:\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuThuTien.resources
+G:\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuTraPhong.resources
+G:\phongtro\obj\x86\Debug\phongtro.GUI.frm_QLThietBi.resources
+G:\phongtro\obj\x86\Debug\phongtro.GUI.frm_Trangthaithue.resources
+G:\phongtro\obj\x86\Debug\phongtro.GUI.frm_TTDichVu.resources
+G:\phongtro\obj\x86\Debug\phongtro.csproj.GenerateResource.Cache
+G:\phongtro\bin\Debug\phongtro.exe.config
+G:\phongtro\bin\Debug\phongtro.exe
+G:\phongtro\bin\Debug\phongtro.pdb
+G:\phongtro\obj\x86\Debug\phongtro.Properties.Resources.resources
+G:\phongtro\obj\x86\Debug\phongtro.exe.licenses
+G:\phongtro\obj\x86\Debug\phongtro.exe
+G:\phongtro\obj\x86\Debug\phongtro.pdb
+E:\phongtro\bin\Debug\phongtro.exe.config
+E:\phongtro\obj\x86\Debug\phongtro.exe
+E:\phongtro\obj\x86\Debug\phongtro.pdb
+E:\Đồ Án VB\phongtro\bin\Debug\phongtro.exe.config
+E:\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.exe
+E:\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.pdb
+E:\Đồ Án VB\phongtro\bin\Debug\phongtro.exe
+E:\Đồ Án VB\phongtro\bin\Debug\phongtro.pdb
+E:\Đồ Án VB\phongtro\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.frm_Main.resources
+E:\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_DichVu.resources
+E:\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_KhachTro.resources
+E:\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuChi.resources
+E:\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuThue.resources
+E:\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuThuTien.resources
+E:\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuTraPhong.resources
+E:\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_QLThietBi.resources
+E:\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_Trangthaithue.resources
+E:\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_TTDichVu.resources
+E:\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.Properties.Resources.resources
+E:\Đồ Án VB\phongtro\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Đồ Án VB\phongtro\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.exe.licenses
+E:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\bin\Debug\phongtro.exe.config
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\bin\Debug\phongtro.exe.config
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\bin\Debug\phongtro.exe
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\bin\Debug\phongtro.pdb
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.frm_Main.resources
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_DichVu.resources
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_KhachTro.resources
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuChi.resources
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuThue.resources
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuThuTien.resources
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuTraPhong.resources
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_QLThietBi.resources
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_Trangthaithue.resources
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_TTDichVu.resources
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.Properties.Resources.resources
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.csproj.GenerateResource.Cache
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.exe.licenses
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.exe
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.pdb
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.csprojResolveAssemblyReference.cache
+C:\Users\Hoang Minh\Desktop\phongtro\bin\Debug\phongtro.exe.config
+C:\Users\Hoang Minh\Desktop\phongtro\bin\Debug\phongtro.exe
+C:\Users\Hoang Minh\Desktop\phongtro\bin\Debug\phongtro.pdb
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuThue.resources
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.SaoLuu_HHH.resources
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.Cap_Nhat_Trang_Thai_Thue_HHH.resources
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.Dang_Nhap_NT.resources
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.frm_Main.resources
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.GUI.frm_KhachTro.resources
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuTraPhong.resources
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.GUI.frm_QLThietBi.resources
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.GUI.frm_Trangthaithue.resources
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.GUI.frm_TTDichVu.resources
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.HinhAnhPhong.resources
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.PhucHoi_HHH.resources
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.TinhTienTro_HHH.resources
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.Properties.Resources.resources
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.csproj.GenerateResource.Cache
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.exe.licenses
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.exe
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.pdb
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.csprojResolveAssemblyReference.cache
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.Danhsachdongtien_HHH.resources
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.NguoiNha.resources
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\bin\Debug\phongtro.exe.config
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.exe
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.pdb
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\bin\Debug\phongtro.exe
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\bin\Debug\phongtro.pdb
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.csprojResolveAssemblyReference.cache
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuThue.resources
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.NguoiNha.resources
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.SaoLuu_HHH.resources
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.Cap_Nhat_Trang_Thai_Thue_HHH.resources
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.Dang_Nhap_NT.resources
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.frm_Main.resources
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.GUI.frm_KhachTro.resources
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuTraPhong.resources
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.GUI.frm_QLThietBi.resources
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.GUI.frm_Trangthaithue.resources
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.GUI.frm_TTDichVu.resources
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.HinhAnhPhong.resources
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.PhucHoi_HHH.resources
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.Danhsachdongtien_HHH.resources
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.TinhTienTro_HHH.resources
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.Properties.Resources.resources
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.csproj.GenerateResource.Cache
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.exe.licenses
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\obj\x86\Debug\phongtro.csproj.AssemblyReference.cache
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuThue.resources
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.Cap_Nhat_Trang_Thai_Thue_HHH.resources
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.Dang_Nhap_NT.resources
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\obj\x86\Debug\phongtro.frm_Main.resources
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuTraPhong.resources
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\obj\x86\Debug\phongtro.GUI.frm_Trangthaithue.resources
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\obj\x86\Debug\phongtro.GUI.frm_TTDichVu.resources
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.HinhAnhPhong.resources
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.TinhTienTro_HHH.resources
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\obj\x86\Debug\phongtro.Properties.Resources.resources
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\obj\x86\Debug\phongtro.csproj.GenerateResource.cache
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\obj\x86\Debug\phongtro.exe.licenses
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\obj\x86\Debug\phongtro.exe
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\obj\x86\Debug\phongtro.pdb
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\phongtro.exe.config
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\phongtro.exe
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\phongtro.pdb
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.Data.v19.2.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.ExpressApp.v19.2.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.ExpressApp.Xpo.v19.2.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.Map.v19.2.Core.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.Persistent.Base.v19.2.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.Xpo.v19.2.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.XtraMap.v19.2.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.Images.v19.2.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.XtraReports.v19.2.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.DataAccess.v19.2.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.CodeParser.v19.2.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.Data.v19.2.xml
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.ExpressApp.v19.2.xml
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.ExpressApp.Xpo.v19.2.xml
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.Map.v19.2.Core.xml
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.Persistent.Base.v19.2.xml
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.Xpo.v19.2.xml
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.XtraMap.v19.2.xml
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.XtraReports.v19.2.xml
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.DataAccess.v19.2.xml
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\de\DevExpress.ExpressApp.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\es\DevExpress.ExpressApp.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ja\DevExpress.ExpressApp.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ru\DevExpress.ExpressApp.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\de\DevExpress.Map.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\es\DevExpress.Map.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ja\DevExpress.Map.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ru\DevExpress.Map.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\de\DevExpress.Persistent.Base.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\es\DevExpress.Persistent.Base.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ja\DevExpress.Persistent.Base.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ru\DevExpress.Persistent.Base.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\obj\x86\Debug\phongtro.csproj.CoreCompileInputs.cache
+D:\WINDOWS DEV\project\012101003_012101014_012101016\Code\phongtro\obj\x86\Debug\phongtro.csproj.CopyComplete
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\obj\x86\Debug\phongtro.csproj.AssemblyReference.cache
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuThue.resources
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.Cap_Nhat_Trang_Thai_Thue_HHH.resources
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.Dang_Nhap_NT.resources
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\obj\x86\Debug\phongtro.frm_Main.resources
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuTraPhong.resources
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\obj\x86\Debug\phongtro.GUI.frm_Trangthaithue.resources
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\obj\x86\Debug\phongtro.GUI.frm_TTDichVu.resources
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.HinhAnhPhong.resources
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.TinhTienTro_HHH.resources
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\obj\x86\Debug\phongtro.Properties.Resources.resources
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\obj\x86\Debug\phongtro.csproj.GenerateResource.cache
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\obj\x86\Debug\phongtro.exe.licenses
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\obj\x86\Debug\phongtro.csproj.CoreCompileInputs.cache
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\obj\x86\Debug\phongtro.exe
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\obj\x86\Debug\phongtro.pdb
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\phongtro.exe.config
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\phongtro.exe
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\phongtro.pdb
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.Data.v19.2.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.ExpressApp.v19.2.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.ExpressApp.Xpo.v19.2.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.Map.v19.2.Core.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.Persistent.Base.v19.2.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.Xpo.v19.2.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.XtraMap.v19.2.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.Images.v19.2.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.XtraReports.v19.2.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.DataAccess.v19.2.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.CodeParser.v19.2.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.Data.v19.2.xml
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.ExpressApp.v19.2.xml
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.ExpressApp.Xpo.v19.2.xml
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.Map.v19.2.Core.xml
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.Persistent.Base.v19.2.xml
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.Xpo.v19.2.xml
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.XtraMap.v19.2.xml
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.XtraReports.v19.2.xml
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.DataAccess.v19.2.xml
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\de\DevExpress.ExpressApp.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\es\DevExpress.ExpressApp.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ja\DevExpress.ExpressApp.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ru\DevExpress.ExpressApp.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\de\DevExpress.Map.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\es\DevExpress.Map.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ja\DevExpress.Map.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ru\DevExpress.Map.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\de\DevExpress.Persistent.Base.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\es\DevExpress.Persistent.Base.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ja\DevExpress.Persistent.Base.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ru\DevExpress.Persistent.Base.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\WINDOWS DEV\project\PhanMem_QLyNhaTro\Code\phongtro\obj\x86\Debug\phongtro.csproj.CopyComplete
